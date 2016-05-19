@@ -23,6 +23,8 @@
 
 .download [class^=col-]{padding-left:0;padding-right:0;}
 
+#weapon-accordion .carousel-inner img{margin-left:auto;margin-right:auto;}
+
 .return_top {padding:20px;background:#0f0f0f;display: inline-block;position: fixed;right: 0;bottom: 50px;z-index: 999;}
 
 
