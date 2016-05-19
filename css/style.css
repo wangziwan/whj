@@ -1,0 +1,40 @@
+/*[class^=col-] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #eee;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid #ddd;
+    border: 1px solid rgba(86,61,124,.2);
+}*/
+
+/*custom 自定义覆盖 Bootstrap */
+.header{padding-bottom:4.291rem;}
+.banner{}
+.banner .container{padding-left:0;padding-right:0;}
+.banner .container .row{margin-left:0;margin-right:0;}
+.banner .container .row [class^=col-],.banner .container .row [class^=col-]{padding-left:0;padding-right:0;}
+/*body{font-family:'microsoft yahei';}*/
+.navbar-brand{width:4rem;padding:0.3rem 0 0 0.3rem;}
+
+.liveShow [class^=col-]:nth-child(odd) {padding-right: 0.5rem;}
+.liveShow [class^=col-]:nth-child(even) {padding-left: 0.5rem;}
+
+.caption-custom-list .tab-content ul li{margin-bottom:0.5rem;}
+
+.download [class^=col-]{padding-left:0;padding-right:0;}
+
+.return_top {padding:20px;background:#0f0f0f;display: inline-block;position: fixed;right: 0;bottom: 50px;z-index: 999;}
+
+
+
+
+
+
+
+/* fn 功能类封装 */
+.fn-mb10{margin-bottom:1rem;}
+
+/* skin 皮肤类封装 */
+.header,.footer{background:#000;}
+.navbar-inverse .navbar-brand{color:#fff;}
+.download{background:#000;}
