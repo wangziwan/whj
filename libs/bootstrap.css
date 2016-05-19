@@ -5713,7 +5713,7 @@ button.list-group-item-danger.active:focus {
   margin-bottom: 0;
 }
 .panel-group {
-  margin-bottom: 20px;
+  margin-bottom: 0.6rem;
 }
 .panel-group .panel {
   margin-bottom: 0;
