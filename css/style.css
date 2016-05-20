@@ -25,6 +25,9 @@ body{font-family:'microsoft yahei';}
 
 #weapon-accordion .carousel-inner img{margin-left:auto;margin-right:auto;}
 
+.infomation .row img{margin:0 auto;}
+.infomation .row {text-align:center;}
+
 .cooperation-custom-list img{margin-bottom:1rem;}
 
 /*.footer{padding-top:1rem;}*/
