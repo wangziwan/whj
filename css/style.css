@@ -14,7 +14,7 @@
 .banner .container .row{margin-left:0;margin-right:0;}
 .banner .container .row [class^=col-],.banner .container .row [class^=col-]{padding-left:0;padding-right:0;}
 body{font-family:'microsoft yahei';}
-.navbar-brand{width:4rem;padding:0.4rem 0 0 0.4rem;}
+.navbar-brand{width:4rem;padding:0;}
 
 .liveShow [class^=col-]:nth-child(odd) {padding-right: 0.5rem;}
 .liveShow [class^=col-]:nth-child(even) {padding-left: 0.5rem;}
